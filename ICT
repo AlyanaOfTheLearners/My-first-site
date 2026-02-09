@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>TLE Area: ICT</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <img src="https://uploads.onecompiler.io/44abef7r2/44bpjd68c/image_1769387104275.png" alt="TLE Area Image" />
+
+    <h1>TLE Area: ICT</h1>
+
+    <nav>
+      <a href="#problem">Problem</a>
+      <a href="#solution">Solution</a>
+      <a href="#root-cause">Root Cause</a>
+      <a href="#about-us">About Us</a>
+    </nav>
+
+    <section id="problem">
+      <h2>Problem</h2>
+      <p>
+        Cybersecurity threats include viruses, hacking, phishing, and data theft,
+        all of which put digital information at risk. Viruses and malware can
+        damage systems and files, hacking allows unauthorized access to data,
+        phishing tricks users into sharing personal information, and data theft
+        results in the loss of sensitive details. Together, these threats can
+        cause serious harm to individuals and organizations.
+      </p>
+    </section>
+
+    <section id="root-cause">
+      <h2>Root Cause</h2>
+      <p>
+        Security issues usually occur because many people are generally uninformed
+        about the hazards on the internet. Users can be too quick to trust links
+        or messages, reuse easy passwords, and forget to update their devices.
+        Some systems are also not well protected security-wise, making them vulnerable
+        to hackers. With an increasingly online population — shopping, studying,
+        and sharing personal information on the web — more opportunities exist
+        for cybercriminals to exploit these vulnerabilities.
+      </p>
+    </section>
+
+    <section id="solution">
+      <h2>Solution</h2>
+      <p>
+        The best and easiest solution is to automate safety online, for all users.
+        That means turning on tough default security settings, automatic software
+        updates, built-in antivirus protection, and two-step verification so people
+        do not have to do too much thinking about security. To the extent that systems
+        are designed based on user protection by default, they will make fewer errors.
+        In addition, brief and clear warnings about online safety can trigger vigilance
+        instead of panic.
+      </p>
+    </section>
+
+    <section id="about-us">
+      <h2>About Us</h2>
+      <p><strong>Charlez Sanz</strong> - My role is the leader and my experiences with coding have helped us pass this quarter as group mates. Our strategies include brainstorming and teamwork.</p>
+      <a href="https://ibb.co/wNSQFK2K" target="_blank" rel="noopener">
+        <img src="https://i.ibb.co/wNSQFK2K/Messenger-creation-1382255056559012.jpg" alt="Charlez Sanz" />
+      </a>
+
+      <p><strong>Natalie</strong> - Hi! I'm Natalie, the Assistant Leader of Group 7 The Learners! My experience as part of this team has been wonderful, and learning the infinite lines of code has been a great opportunity for me to learn and grow with my team! Our strategies are basically searching for cool and good websites, and using said websites as references!!! ⸜(｡˃ ᵕ ˂ )⸝♡</p>
+      <a href="https://ibb.co/rfQBsw1m" target="_blank" rel="noopener">
+        <img src="https://i.ibb.co/rfQBsw1m/Messenger-creation-769725739518823.jpg" alt="Natalie" />
+      </a>
+
+      <p><strong>Angel Denise Patoy</strong> - I’m a member of Group 7, The Learners. Through this group, I learned teamwork, cooperation, and responsibility while working together to achieve our goals.</p>
+      <a href="https://ibb.co/KctqJTHL" target="_blank" rel="noopener">
+        <img src="https://i.ibb.co/KctqJTHL/Messenger-creation-1963760125022780.jpg" alt="Angel Denise Patoy" />
+      </a>
+
+      <p><strong>Alyana Salo</strong> - Being part of this group has helped me learn more about coding and understand how different lines of code work. I’ve gained experience by working with my teammates and using useful websites as references to help us learn and finish our tasks.</p>
+      <a href="https://ibb.co/G4z6CQhf" target="_blank" rel="noopener">
+        <img src="https://i.ibb.co/G4z6CQhf/Messenger-creation-1230886888463854.jpg" alt="Alyana Salo" />
+      </a>
+    </section>
+
+    <script src="script.js"></script>
+  </body>
+</html>
